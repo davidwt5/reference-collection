@@ -1,6 +1,3 @@
-A collection of resources that I've found helpful.
-<br>
-
 ## CSS
 ### Flexbox
 * [Flexbox properties reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
