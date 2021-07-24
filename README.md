@@ -1,6 +1,6 @@
 ## CSS
 ### Flexbox
-* [Flexbox properties reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties
+* [Flexbox properties reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ## Markdown (md)
