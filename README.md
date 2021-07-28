@@ -5,7 +5,7 @@
 * [flexbox froggy](https://flexboxfroggy.com/)
 
 ## Regex
-* [netninja regex exercise (my solution)]https://github.com/davidwt5/regex-learning
+* [netninja regex exercise (my solution)](https://github.com/davidwt5/regex-learning)
 
 ## Markdown (md)
 * [markdown reference](https://guides.github.com/features/mastering-markdown/)
