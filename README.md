@@ -1,5 +1,4 @@
 ## JavaScript
-* [YDKJS - You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed#titles)
 
 ## Flexbox
 * [flexbox properties reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
