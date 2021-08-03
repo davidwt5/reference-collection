@@ -1,4 +1,5 @@
 # JavaScript
+* [Why is Object.create() the preferred way of prototype inheritance?](https://stackoverflow.com/questions/17392857/benefits-of-using-object-create-for-inheritance)
 
 # Flexbox
 * [flexbox properties reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
