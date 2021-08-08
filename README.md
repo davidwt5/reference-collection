@@ -2,6 +2,7 @@
 * [Why is Object.create() the preferred way of setting up prototype inheritance?](https://stackoverflow.com/questions/17392857/benefits-of-using-object-create-for-inheritance)
 * [Using localStorage and sessionStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
 * [Factory Functions > Constructors](https://tsherif.wordpress.com/2013/08/04/constructors-are-bad-for-javascript/)
+* [Scopes, Context, Closure, Module Pattern, bind()](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope)
 
 # Flexbox
 * [flexbox properties reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
