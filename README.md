@@ -3,6 +3,7 @@
 * [Using localStorage and sessionStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
 * [Factory Functions > Constructors](https://tsherif.wordpress.com/2013/08/04/constructors-are-bad-for-javascript/)
 * [Scopes, Context, Closure, Module Pattern, bind()](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope)
+* [Var vs Let&Const] (Function Scope vs. Block Scope)
 
 # Flexbox
 * [flexbox properties reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
