@@ -1,3 +1,6 @@
+# Development Resources
+* [List of Public APIs](https://github.com/n0shake/Public-APIs)
+
 # JavaScript
 * [Why is Object.create() the preferred way of setting up prototype inheritance?](https://stackoverflow.com/questions/17392857/benefits-of-using-object-create-for-inheritance)
 * [Using localStorage and sessionStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
