@@ -2,7 +2,7 @@
 * [List of Public APIs](https://github.com/n0shake/Public-APIs)
 
 # General Programming
-* [Minimalist Unit Testing](https://youtu.be/URSWYvyc42M?t=1667)
+* [Minimalist Unit Testing](https://youtu.be/URSWYvyc42M?t=1823)
 
 # JavaScript
 * [Why is Object.create() the preferred way of setting up prototype inheritance?](https://stackoverflow.com/questions/17392857/benefits-of-using-object-create-for-inheritance)
