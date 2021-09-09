@@ -12,7 +12,7 @@
 * [Var vs Let&Const(Function Scope vs. Block Scope)](https://wesbos.com/javascript-scoping)
 
 # Jest
-* (Intellisense for Jest in vscode)[https://www.npmjs.com/package/@types/jest]
+* [Intellisense for Jest in vscode](https://www.npmjs.com/package/@types/jest)
 
 # Flexbox
 * [flexbox properties reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
