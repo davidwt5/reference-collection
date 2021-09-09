@@ -11,6 +11,9 @@
 * [Scopes, Context, Closure, Module Pattern, bind()](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope)
 * [Var vs Let&Const(Function Scope vs. Block Scope)](https://wesbos.com/javascript-scoping)
 
+# Jest
+* (Intellisense for Jest in vscode)[https://www.npmjs.com/package/@types/jest]
+
 # Flexbox
 * [flexbox properties reference](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties)
 * [understanding the flex property (grow, shrink basis)](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/)
