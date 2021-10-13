@@ -4,6 +4,9 @@
 # General Programming
 * [Minimalist Unit Testing](https://youtu.be/URSWYvyc42M?t=1823)
 
+# React
+* [Lifecycle Cheat Sheet](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
 # JavaScript
 * [Why is Object.create() the preferred way of setting up prototype inheritance?](https://stackoverflow.com/questions/17392857/benefits-of-using-object-create-for-inheritance)
 * [Using localStorage and sessionStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
