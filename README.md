@@ -3,6 +3,7 @@
 
 # General Programming
 * [Minimalist Unit Testing](https://youtu.be/URSWYvyc42M?t=1823)
+* [ReactJS project ideas](https://www.golangprograms.com/react-js-projects-for-beginners.html)
 
 # React
 * [Lifecycle Cheat Sheet](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
